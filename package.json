@@ -1,7 +1,6 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot",
@@ -30,5 +29,15 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro-Hespanhol/App-ToDo-Front-end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leandro-Hespanhol/App-ToDo-Front-end/issues"
+  },
+  "homepage": "https://github.com/Leandro-Hespanhol/App-ToDo-Front-end#readme",
+  "description": ""
 }
